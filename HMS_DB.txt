@@ -1,0 +1,30 @@
+CREATE TABLE [dbo].[AccountTable] (
+    [Username] NCHAR (10) NOT NULL,
+    [Name]     NCHAR (20) NULL,
+    [Password] NCHAR (6)  NOT NULL,
+    [Mobile]   NCHAR (14) NULL,
+    [Address]  NCHAR (50) NULL,
+    CONSTRAINT [PK__AdminTab__536C85E56D43887B] PRIMARY KEY CLUSTERED ([Username] ASC)
+);
+-------------------------------------------------------------------------------------------
+CREATE TABLE [dbo].[DonorTable] (
+    [Name]       NCHAR (20) NULL,
+    [Mobile]     NCHAR (14) NOT NULL,
+    [BloodGroup] NCHAR (5)  NOT NULL,
+    [Comment]    NCHAR (30) NULL,
+    [Address]    NCHAR (50) NULL,
+    [Sex]        NCHAR (6)  NULL,
+    [Age]        INT        NULL,
+    CONSTRAINT [PK__DonorTab__6FAE0783C6AEA111] PRIMARY KEY CLUSTERED ([Mobile] ASC)
+);
+
+-------------------------------------------------------------------------------------------
+CREATE TABLE [dbo].[PharmasyTable] (
+    [Id]          NCHAR (10) NOT NULL,
+    [Name]        NCHAR (20) NULL,
+    [Price]       INT        NOT NULL,
+    [Copies]      INT        NOT NULL,
+    [TodayStatus] NCHAR (10) NULL,
+    [SoldCopies]  INT        NULL,
+    CONSTRAINT [PK__Pharmasy__3214EC0791593099] PRIMARY KEY CLUSTERED ([Id] ASC)
+---------------------------------------------------------------------------------------------

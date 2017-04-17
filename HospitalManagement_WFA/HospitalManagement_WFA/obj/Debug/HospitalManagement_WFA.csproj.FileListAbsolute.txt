@@ -1,0 +1,15 @@
+H:\SHOVON's PROGRAMMING\C#\HospitalManagement_WFA\HospitalManagement_WFA\bin\Debug\HospitalManagement_WFA.exe.config
+H:\SHOVON's PROGRAMMING\C#\HospitalManagement_WFA\HospitalManagement_WFA\bin\Debug\HospitalManagement_WFA.exe
+H:\SHOVON's PROGRAMMING\C#\HospitalManagement_WFA\HospitalManagement_WFA\bin\Debug\HospitalManagement_WFA.pdb
+H:\SHOVON's PROGRAMMING\C#\HospitalManagement_WFA\HospitalManagement_WFA\obj\Debug\HospitalManagement_WFA.csprojResolveAssemblyReference.cache
+H:\SHOVON's PROGRAMMING\C#\HospitalManagement_WFA\HospitalManagement_WFA\obj\Debug\HospitalManagement_WFA.FormHome.resources
+H:\SHOVON's PROGRAMMING\C#\HospitalManagement_WFA\HospitalManagement_WFA\obj\Debug\HospitalManagement_WFA.Properties.Resources.resources
+H:\SHOVON's PROGRAMMING\C#\HospitalManagement_WFA\HospitalManagement_WFA\obj\Debug\HospitalManagement_WFA.csproj.GenerateResource.Cache
+H:\SHOVON's PROGRAMMING\C#\HospitalManagement_WFA\HospitalManagement_WFA\obj\Debug\HospitalManagement_WFA.exe
+H:\SHOVON's PROGRAMMING\C#\HospitalManagement_WFA\HospitalManagement_WFA\obj\Debug\HospitalManagement_WFA.pdb
+H:\SHOVON's PROGRAMMING\C#\HospitalManagement_WFA\HospitalManagement_WFA\obj\Debug\HospitalManagement_WFA.FormAdminPanel.resources
+H:\SHOVON's PROGRAMMING\C#\HospitalManagement_WFA\HospitalManagement_WFA\obj\Debug\HospitalManagement_WFA.FormBloodDonation.resources
+H:\SHOVON's PROGRAMMING\C#\HospitalManagement_WFA\HospitalManagement_WFA\obj\Debug\HospitalManagement_WFA.FormPharmasy.resources
+H:\SHOVON's PROGRAMMING\C#\HospitalManagement_WFA\HospitalManagement_WFA\obj\Debug\HospitalManagement_WFA.FormShowDrugList.resources
+H:\SHOVON's PROGRAMMING\C#\HospitalManagement_WFA\HospitalManagement_WFA\obj\Debug\HospitalManagement_WFA.FormDrugSell.resources
+H:\SHOVON's PROGRAMMING\C#\HospitalManagement_WFA\HospitalManagement_WFA\obj\Debug\HospitalManagement_WFA.FormHMSwebBrowser.resources
